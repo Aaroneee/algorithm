@@ -1,4 +1,4 @@
-package greedy_algorithm;
+package greedy;
 
 /**
  * describe: 605. 种花问题
