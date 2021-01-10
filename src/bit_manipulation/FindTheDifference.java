@@ -1,3 +1,5 @@
+package bit_manipulation;
+
 public class FindTheDifference {
     /**
      * describe: 389. 找不同

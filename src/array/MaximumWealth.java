@@ -1,3 +1,5 @@
+package array;
+
 /**
  * describe: 1672. 最富有客户的资产总量
  *

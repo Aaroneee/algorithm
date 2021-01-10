@@ -1,3 +1,5 @@
+package array;
+
 /**
  * describe: 1512. 好数对的数目
  *

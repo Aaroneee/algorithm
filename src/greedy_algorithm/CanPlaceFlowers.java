@@ -1,6 +1,8 @@
+package greedy_algorithm;
+
 /**
  * describe: 605. 种花问题
- *
+ * 贪心算法
  * @Author: Aaron
  * @Date: 2021/1/2 11:31
  */
